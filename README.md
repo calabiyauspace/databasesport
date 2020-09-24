@@ -9,20 +9,20 @@
 
 ## Инвариативные самостоятельные работы
 
-[ИСР 1](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR1-2.pdf)
+4 [ИСР 1](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR1-2.pdf)
 
-[ИСР 2](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR1.pdf)
+5 [ИСР 2](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR1.pdf)
 
-[ИСР 3](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR3.pdf)
+6 [ИСР 3](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR3.pdf)
 
-[ИСР 5](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR5.jpg)
+7 [ИСР 5](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR5.jpg)
 
 ## Вариативные самостоятельные работы
 
-[ВРС 1. Презентация](https://github.com/calabiyauspace/databasesport/blob/master/VSR/SokolovaA-VSR1.pdf)
+8 [ВРС 1. Презентация](https://github.com/calabiyauspace/databasesport/blob/master/VSR/SokolovaA-VSR1.pdf)
 
-[ВРС 2. Модели данных](https://github.com/calabiyauspace/databasesport/blob/master/VSR/SokolovaA-VSR2.pdf)
+9 [ВРС 2. Модели данных](https://github.com/calabiyauspace/databasesport/blob/master/VSR/SokolovaA-VSR2.pdf)
 
-[ВРС 5. Презентация](https://github.com/calabiyauspace/databasesport/blob/master/VSR/SokolovaA-VSR5.pdf)
+10 [ВРС 5. Презентация](https://github.com/calabiyauspace/databasesport/blob/master/VSR/SokolovaA-VSR5.pdf)
 
 

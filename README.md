@@ -16,3 +16,13 @@
 [ИСР 3](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR3.pdf)
 
 [ИСР 5](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR5.jpg)
+
+## Вариативные самостоятельные работы
+
+[ВРС 1. Презентация](https://github.com/calabiyauspace/databasesport/blob/master/VSR/SokolovaA-VSR1.pdf)
+
+[ВРС 2. Модели данных](https://github.com/calabiyauspace/databasesport/blob/master/VSR/SokolovaA-VSR2.pdf)
+
+[ВРС 5. Презентация](https://github.com/calabiyauspace/databasesport/blob/master/VSR/SokolovaA-VSR5.pdf)
+
+

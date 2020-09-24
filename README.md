@@ -7,11 +7,12 @@
 
 3 [Решение задач реляционной алгебры](https://github.com/calabiyauspace/databasesport/blob/master/LabWorks/SokolovaA-LR3.pdf)
 
-##Инвариативные самостоятельные работы
-[1](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR1-2.pdf)
+## Инвариативные самостоятельные работы
 
-[2](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR1.pdf)
+[ИСР 1](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR1-2.pdf)
 
-[3](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR3.pdf)
+[ИСР 2](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR1.pdf)
 
-[5](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR5.jpg)
+[ИСР 3](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR3.pdf)
+
+[ИСР 5](https://github.com/calabiyauspace/databasesport/blob/master/InvarSR/SokolovaA-ISR5.jpg)

@@ -1,1 +1,1 @@
-# Anna Sokolova's Porfolio for the course of Databases
+# Anna Sokolova's Porfolio for the Databases course

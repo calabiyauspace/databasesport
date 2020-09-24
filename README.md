@@ -1,4 +1,4 @@
-# Anna Sokolova's Porfolio for the Databases course
+# Anna Sokolova's Portfolio for the Databases course
 
 ## Лабораторные работы
 1 [Начало работы с MS ACCESS, создание таблиц, экспорт и импорт данных](https://github.com/calabiyauspace/databasesport/blob/master/LabWorks/SokolovaA-LR1.accdb)

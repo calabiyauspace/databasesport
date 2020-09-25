@@ -1,9 +1,7 @@
 # Anna Sokolova's Portfolio for the Databases course
 
 ## Лабораторные работы
-1 [Начало работы с MS ACCESS, создание таблиц, экспорт и импорт данных](https://github.com/calabiyauspace/databasesport/blob/master/LabWorks/SokolovaA-LR1.accdb)
-
-2 [Создание запросов в конструкторе LibreOffice Base](https://github.com/calabiyauspace/databasesport/blob/master/LabWorks/SokolovaA-LR2.odb)
+1 [Начало работы с MS ACCESS, создание таблиц, экспорт и импорт данных](https://github.com/calabiyauspace/databasesport/blob/master/LabWorks/SokolovaALR11.accdb)
 
 3 [Решение задач реляционной алгебры](https://github.com/calabiyauspace/databasesport/blob/master/LabWorks/SokolovaA-LR3.pdf)
 
